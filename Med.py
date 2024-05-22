@@ -3,7 +3,7 @@ from medical_keywords import medical_keywords  # Ensure you have this module
 import google.generativeai as genai
 
 # Configure the Gemini API with your API key
-genai.configure(api_key="*****")
+genai.configure(api_key="AIzaSyAYkNollmdlQoIQeUoNVeYUcJ6rIwDDsow")
 
 # Define the generation configuration and safety settings
 generation_config = {
