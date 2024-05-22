@@ -1,4 +1,5 @@
 MedQuery
+
 MedQuery is a Streamlit-based chatbot application designed to provide quick medical information and assistance to users. The chatbot uses Gemini search API to fetch relevant information based on user queries. It is intended to be a handy tool for users seeking medical advice or information on various health-related topics.
 
 Features
