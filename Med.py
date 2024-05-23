@@ -36,6 +36,9 @@ st.title('MedQuery')
 
 query = st.text_input("Ask a medical-related query:")
 
+if query.lower()=="who are you":
+    st.write("My name is MedQuery. I am here to help you. How can I help you?")
+
 if is_medical_query(query):
     with st.spinner('Generating response...'):
         chat_session = model.start_chat(history=[])
