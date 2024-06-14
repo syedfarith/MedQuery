@@ -473,7 +473,7 @@ medical_keywords = [
     "oesophagus", "patella", "pectoral", "pericardium", "pharynx", "photon", "plasma", "platelet",
     "pupil", "radius", "rectum", "retina", "rib", "sacrum", "scapula", "serum", "sphincter",
     "sternum", "synapse", "synovial", "tarsus", "tendon", "thorax", "thyroid", "trachea",
-    "ulna", "uterus", "vertebra", "vitamin"
+    "ulna", "uterus", "vertebra", "vitamin","glioma"
 
 ]
 print(len(medical_keywords))
